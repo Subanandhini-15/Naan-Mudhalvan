@@ -14,4 +14,4 @@ The contents of the project are listed as follows:
 
 ## Problem definition and design thinking
 The phase1 describes the problem definition and the design thinking methods
-- Phase 1 - [CAD_Phase1]()
+- Phase 1 - []
