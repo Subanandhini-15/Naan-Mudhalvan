@@ -17,7 +17,7 @@ The phase1 describes the problem definition and the design thinking methods
 - Phase 1 - [CAD_Phase1](https://github.com/Subanandhini-15/Naan-Mudhalvan/blob/main/CAD_Phase1.docx)
 
 
-- ## Innovation
+## Innovation
 The phase2 is about consider incorporating advanced machine learning algorithms for predictive analysis or anomaly detection in the big data. 
 - Phase 2 - [CAD_Phase2](https://github.com/Subanandhini-15/Naan-Mudhalvan/blame/main/CAD_Phase2.docx)
 
